@@ -10,14 +10,5 @@ I am Sudharsan, a Computer Science Engineering student passionate about web deve
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Follow me! It's free of cost.
 
-### Projects and Achievements
-
-- **Street Paws**: Provides animal adoption website links and information, built using HTML, CSS, JavaScript, and Bootstrap.
-- **Automatic Number Plate Recognition (ANPR)**: Developed as a major part of a team, focusing on automatic recognition of vehicle number plates.
-
-### Certifications
-
-- **Python for Machine Learning**: Great Learning
-- **Java (Basic)**: HackerRank
 
 Thank you for visiting my GitHub profile. Let's connect and build something amazing together!
