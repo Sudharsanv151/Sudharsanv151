@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudharsan!</h1>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=600&height=80&lines=Code.+Build.+Inspire." alt="Typing SVG" /></p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Code.+Build.+Inspire." alt="Typing SVG" /></p>
 
 ---
 
@@ -92,9 +92,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudharsanv151&show_icons=true&theme=dark&hide=contribs,prs&hide_title=true&hide_border=true&count_private=true" width="48%" alt="Sudharsan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsanv151&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudharsanv151&show_icons=true&locale=en" alt="Sudharsan's GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsanv151" alt="GitHub Streak" height="200"/>
 </p>
+
+
+
 
 
 ---
