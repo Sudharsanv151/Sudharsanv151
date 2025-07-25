@@ -1,100 +1,121 @@
-<h1 align="center">Hi 👋, I'm Sudharsan </h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | DSA in Java </h3>
+<h1 align="center">Hi 👋, I'm Sudharsan!</h1>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=600&height=80&lines=Code.+Build.+Inspire." alt="Typing SVG" /></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+Ideas+into+Impactful+Products;Building+with+AI%2C+React%2C+Node%2C+MongoDB;Let's+create+smarter+solutions+together" alt="Typing SVG" />
+---
+
+
+## 🛠️ Tech Stack & Tools
+
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
-<br>
 
----
+#### 🧱 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-## 🧑‍💻 About Me
+#### 🔧 Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=apidoc&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-- 💼 I’m currently focused on creating **end-to-end Full Stack Applications**
-- 🧠 Learning advanced **data structures**, **system design**, and **AI integrations**
-- 📚 Preparing for **big tech interviews** and building **unique, problem-solving products**
-- ⚡ Fun fact: I prefer real **products** over "just projects" — solving real user problems matters to me!
+#### 🤖 AI/ML Tools
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 1.5" />
+  <img src="https://img.shields.io/badge/Copilot-6E40C9?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Claude-2D5D9E?style=for-the-badge&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-`Java`  `JavaScript` `C`
-
-### 🧱 Frontend
-`React.js`  `Redux` `Tailwind CSS` `HTML/CSS`
-
-### 🔧 Backend & DevOps
-`Node.js` `Express.js` `MongoDB` `Firebase`  `REST APIs` 
-
-### 🤖 AI/ML Tools
-`OpenAI` `Gemini 1.5` `Hugging Face`   
-
-### 🧰 Tools & Platforms
-`Git` `GitHub` `VS Code` `Postman` `Vercel` `Netlify` `Render`  `IntelliJ` `Eclipse`
+#### 🧰 Development Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+<!--   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" /> -->
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🧠 Emotiva - AI Powered Emotional Resilience Coach
-> React.js + Flask + MongoDB
+> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
-- ✅ Blogs, Quotes, Song recommendation based on Mood  
-- ✅ Journal your memories  
-- ✅ Access to relaxation contents such as games, videos  
-🔗 [GitHub Repo](https://github.com/Sudharsanv151/Emotiva)
-🔗 [GitHub Repo](https://github.com/Sudharsanv151/Emotiva-server)
+- ✅ Provides personalized **blogs, quotes, and song recommendations** based on user mood.
+- ✅ Features a **journal** to record and reflect on memories.
+- ✅ Offers access to **relaxation content** including games and videos for emotional well-being.
+- 🔗 [Client Repo](https://github.com/Sudharsanv151/Emotiva) | 🔗 [Server Repo](https://github.com/Sudharsanv151/Emotiva-server)
+---
 
+### 🚕 RideBooker - Ride Booking Application
+> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+- ✅ **Customers** book rides, pay, rate, and earn rewards. **Drivers** manage vehicles and handle booking requests.  
+- ✅ Built with **Devise** (authentication), **Doorkeeper** (API access), and **ActiveAdmin** (admin panel).  
+- ✅ Features include bookings, payments, ratings, rewards, and a responsive Tailwind CSS UI. Backend tested with RSpec.
+- 🔗 [GitHub Repo](https://github.com/Sudharsanv151/vehicle_booking_web_app)
 ---
 
 ### 📺 Bookstore Management System
-> React.js + Express.js + Node.js + MongoDB
+> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
-- ✅ Responsive and interactive online bookstore platform  
-- ✅ JWT based authentication, secure login and session handling   
-- ✅ Add your books to cart and checkout!  
-🔗 [GitHub Repo](https://github.com/Sudharsanv151/BookStore)
-🔗 [GitHub Repo](https://github.com/Sudharsanv151/BookStore_Server)
+- ✅ A **responsive and interactive** online bookstore platform.
+- ✅ Implements **JWT-based authentication** for secure login and robust session handling.
+- ✅ Users can **add books to cart** and complete the **checkout process**.
+- 🔗 [Client Repo](https://github.com/Sudharsanv151/BookStore) | 🔗 [Server Repo](https://github.com/Sudharsanv151/BookStore_Server)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudharsanv151&show_icons=true&theme=github_dark&hide=contribs,prs" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsanv151&theme=github-dark-blue" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudharsanv151&show_icons=true&theme=dark&hide=contribs,prs&hide_title=true&hide_border=true&count_private=true" width="48%" alt="Sudharsan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudharsanv151&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
----
-
-## 🎯 2025 Goals
-
-- ✅ Master React & Node at a product level  
-- ✅ Build AI based Project  
-- 🔄 Contribute to open-source AI projects  
-- 🔄 Land a role at a top-tier product-based company  
-- 🔄 I work on improving myself a little every day 
-
----
-
-## 📜 Certifications
-
-- ✅ Responsive Web Design - FreeCodeCamp   
-- ✅ Java  – [HackerRank]  
-- ✅ Problem solving  – [HackerRank]  
-- ✅ SQL – [SoloLearn]
 
 ---
 
 ## 📫 Let’s Connect!
 
-- 💼 LinkedIn: [linkedin.com/in/sudharsanv151](https://linkedin.com/in/sudharsanv151)  
-- ✉️ Email: sudharsanv151@gmail.com  
-- 💬 Ask me about: **MERN, AI APIs, Interview Prep, DSA, and Product Design**
+<p>
+  <a href="https://linkedin.com/in/sudharsanv151" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sudharsanv151@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  </p>
 
----
 
 > *"Strive not to be a success, but rather to be of value." – Albert Einstein*
 
+---
+<p align="center">
+  <a href="https://github.com/Sudharsanv151">
+    <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/master/image/cool.gif" width="50" height="50"/>
+  </a>
+</p>
