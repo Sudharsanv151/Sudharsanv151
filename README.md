@@ -4,7 +4,7 @@
 ---
 
 
-## 🛠️ Tech Stack & Toolshttps://bookart-online.vercel.app/
+## 🛠️ Tech Stack & Tools
 
 #### 💻 Languages
 <p>
