@@ -4,7 +4,7 @@
 ---
 
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Toolshttps://bookart-online.vercel.app/
 
 #### 💻 Languages
 <p>
@@ -67,7 +67,8 @@
 - ✅ Provides personalized **blogs, quotes, and song recommendations** based on user mood.
 - ✅ Features a **journal** to record and reflect on memories.
 - ✅ Offers access to **relaxation content** including games and videos for emotional well-being.
-- 🔗 [Client Repo](https://github.com/Sudharsanv151/Emotiva) | 🔗 [Server Repo](https://github.com/Sudharsanv151/Emotiva-server)
+- 🔗 [Live](https://emotiva.vercel.app/) | 🔗 [Client Repo](https://github.com/Sudharsanv151/Emotiva) | 🔗 [Server Repo](https://github.com/Sudharsanv151/Emotiva-server)
+
 ---
 
 ### 🚕 RideBooker - Ride Booking Application
@@ -76,7 +77,7 @@
 - ✅ **Customers** book rides, pay, rate, and earn rewards. **Drivers** manage vehicles and handle booking requests.  
 - ✅ Built with **Devise** (authentication), **Doorkeeper** (API access), and **ActiveAdmin** (admin panel).  
 - ✅ Features include bookings, payments, ratings, rewards, and a responsive Tailwind CSS UI. Backend tested with RSpec.
-- 🔗 [GitHub Repo](https://github.com/Sudharsanv151/vehicle_booking_web_app)
+- 🔗 [Repo](https://github.com/Sudharsanv151/vehicle_booking_web_app)
 ---
 
 ### 📺 Bookstore Management System
@@ -85,8 +86,7 @@
 - ✅ A **responsive and interactive** online bookstore platform.
 - ✅ Implements **JWT-based authentication** for secure login and robust session handling.
 - ✅ Users can **add books to cart** and complete the **checkout process**.
-- 🔗 [Client Repo](https://github.com/Sudharsanv151/BookStore) | 🔗 [Server Repo](https://github.com/Sudharsanv151/BookStore_Server)
-
+- 🔗 [Live](https://bookart-online.vercel.app/) | 🔗 [Client Repo](https://github.com/Sudharsanv151/BookStore) | 🔗 [Server Repo](https://github.com/Sudharsanv151/BookStore_Server)
 ---
 
 ## 📈 GitHub Stats
