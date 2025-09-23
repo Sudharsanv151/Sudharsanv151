@@ -9,8 +9,8 @@
 #### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
@@ -18,8 +18,8 @@
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
@@ -65,7 +65,7 @@
 > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 - ✅ Provides personalized **blogs, quotes, and song recommendations** based on user mood.
-- ✅ Features a **journal** to record and reflect on memories.
+- ✅ **Journal** feature for tracking memorable moments.
 - ✅ Offers access to **relaxation content** including games and videos for emotional well-being.
 - 🔗 [Live](https://emotiva.vercel.app/) | 🔗 [Client Repo](https://github.com/Sudharsanv151/Emotiva) | 🔗 [Server Repo](https://github.com/Sudharsanv151/Emotiva-server)
 
@@ -76,7 +76,7 @@
 
 - ✅ **Customers** book rides, pay, rate, and earn rewards. **Drivers** manage vehicles and handle booking requests.  
 - ✅ Built with **Devise** (authentication), **Doorkeeper** (API access), and **ActiveAdmin** (admin panel).  
-- ✅ Features include bookings, payments, ratings, rewards, and a responsive Tailwind CSS UI. Backend tested with RSpec.
+- ✅ Features include bookings, payments, ratings, rewards, and backend tested with **RSpec**.
 - 🔗 [Repo](https://github.com/Sudharsanv151/vehicle_booking_web_app)
 ---
 
@@ -84,7 +84,7 @@
 > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 - ✅ A **responsive and interactive** online bookstore platform.
-- ✅ Implements **JWT-based authentication** for secure login and robust session handling.
+- ✅ Implements **JWT-based authentication** for secure login and session handling.
 - ✅ Users can **add books to cart** and complete the **checkout process**.
 - 🔗 [Live](https://bookart-online.vercel.app/) | 🔗 [Client Repo](https://github.com/Sudharsanv151/BookStore) | 🔗 [Server Repo](https://github.com/Sudharsanv151/BookStore_Server)
 ---
